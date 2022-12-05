@@ -1,0 +1,55 @@
+.wrapper{
+    text-align: center;
+    margin-top: 146px;
+    
+}
+#counter{
+    font-size: 95px;
+  
+}
+body{
+    background: rgb(0, 108, 139);
+}
+/* #counter{
+    height: 178px;
+    width: 208px;
+    background-color: #222242;
+    display: inline-block;
+    color: white;
+    border-radius: 50%;
+    font-size: 50px;
+    text-align: center;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+   
+} */
+
+#increment{
+    background-color: #222242;
+    padding: 10px 38px;
+    border: 1px solid #A9A9A9;
+    border-radius: 28px;
+    color: #ffff;
+    transform: all .2 ease;
+    outline: 0; 
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+
+}
+#increment:hover{
+    background-color: rgb(8, 225, 215);
+    color: black;
+}
+#decrement{
+    background-color: #222242;
+    padding: 10px 38px;
+    border: 1px solid #A9A9A9;
+    border-radius: 28px;
+    color: #ffff;
+    transform: all .2 ease;
+    outline: 0; 
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+
+}
+#decrement:hover{
+    background-color: rgb(8, 225, 215);
+    color: black;
+}
